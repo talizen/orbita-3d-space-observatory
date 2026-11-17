@@ -2,7 +2,9 @@
 
 A 3D observatory for astronomy education, science exhibits and immersive experiences. Drag and zoom six live 3D destinations — the Milky Way, Solar System, Andromeda, a black hole, Earth and the Moon — with observation settings and object notes, plus a six-stage rocket launch journey for kids.
 
-**[Live preview](https://qep1iugknvrm.site.talizen.com/)** · **[Remix in Talizen](https://talizen.com/project?newProjectFrom=qep1it2cqowi&utm_source=talizen-templates&utm_medium=readme&utm_campaign=orbita-3d-space-observatory)** · **[More templates](https://templates.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=orbita-3d-space-observatory)**
+[![ORBITA — Interactive 3D Space Observatory](https://fsu.creght.com/site/2121561300969459712/1794819022876__or_en_bh.jpg?w=1200&fmt=jpg)](https://qep1iugknvrm.site.talizen.com/)
+
+**[Live preview](https://qep1iugknvrm.site.talizen.com/)** · **[Remix in Talizen](https://talizen.com/project?newProjectFrom=qep1it2cqowi&utm_source=talizen-templates&utm_medium=readme&utm_campaign=orbita-3d-space-observatory)** · **[More templates](https://templates.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=orbita-3d-space-observatory)** · **[Star on GitHub](https://github.com/talizen/orbita-3d-space-observatory)**
 
 A free website template from **[Talizen Templates](https://templates.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=orbita-3d-space-observatory)**, built with [Talizen](https://www.talizen.com/?utm_source=talizen-templates&utm_medium=readme&utm_campaign=orbita-3d-space-observatory).
 
